@@ -4,7 +4,8 @@ Trilha Explorer
 Mesmo em cima do hora, tentei acompanhar a maratona e fazer o projeto ao meu gosto
 
 
-![image](https://user-images.githubusercontent.com/102062976/190929011-b125c6b4-9bce-4e3d-8eb7-ae0cbf2872a7.png)
+![127 0 0 1_5500_](https://user-images.githubusercontent.com/102062976/190929225-fe9d1e84-c467-4a7c-9f25-37fb9405fca1.png)
+
 
 
 ## Tecnologias
